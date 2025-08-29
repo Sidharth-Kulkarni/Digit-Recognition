@@ -5,11 +5,9 @@ It demonstrates how to train and evaluate a deep learning model to classify digi
 
 ---
 
-## 📌 Features
-- Preprocessing and visualization of the MNIST dataset  
+## 📌 Features 
 - Building and training a neural network using TensorFlow/Keras  
-- Evaluation of model performance  
-- Interactive Jupyter Notebook for step-by-step understanding  
+- Evaluation of model performance
 
 ---
 
