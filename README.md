@@ -22,9 +22,11 @@ git clone https://github.com/Sidharth-Kulkarni/Digit-Recognition.git
 cd Digit-Recognition
 ```
 Install dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 Run the Jupyter Notebook:
+```bash
 jupyter notebook Digit_Recognition.ipynb
-
+```
 
